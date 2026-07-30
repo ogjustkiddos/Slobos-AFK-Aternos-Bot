@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "marmot.aternos.host",
-    "port": 16740,
+    "ip": "marmot.aternos.host:16740",
+    "port": ,
     "version": "",
     "try-creative": false
   },
