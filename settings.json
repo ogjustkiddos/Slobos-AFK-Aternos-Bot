@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Arcsmpvol4.aternos.me",
+    "ip": "marmot.aternos.host",
     "port": 16740,
     "version": "",
     "try-creative": false
