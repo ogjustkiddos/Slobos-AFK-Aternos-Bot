@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "ArcSmp",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "marmot.aternos.host:16740",
-    "port": ,
+    "ip": "Arcsmpvol4.aternos.me",
+    "port": 16740,
     "version": "",
     "try-creative": false
   },
